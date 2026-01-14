@@ -30,13 +30,21 @@ These issues are often overlooked during rapid cloud deployments and later explo
 ## Architecture & Workflow
 
 AWS Account
+
 ↓
+
 IAM / S3 / EC2 Enumeration
+
 ↓
+
 Misconfiguration Detection
+
 ↓
+
 Risk Scoring Engine
+
 ↓
+
 Security Report (JSON)
 
 
@@ -88,3 +96,4 @@ This project mirrors real detection logic used by cloud security teams.
 
 ## Disclaimer
 Run this tool only on AWS accounts you own or have explicit permission to test.
+
